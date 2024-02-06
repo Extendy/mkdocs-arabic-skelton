@@ -1,0 +1,39 @@
+site_name: عنوان الموقع
+docs_dir: docs
+site_dir: public
+repo_url: http://repo-url-if-there-is-repp-url-or-remove-it
+site_description: 'وصف'
+site_author: 'Extendy Team'
+copyright: 'Copyrights © 2024 Extendy Team'
+nav:
+  - الرئيسية: index.md
+  - رخصة الاستخدام: license.md
+theme:
+    name: material
+    language: ar
+    direction: rtl
+    font:
+      text: 'Rubik' # from google fonts
+    palette:
+    primary: light blue # see https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/
+    features:
+    - content.code.copy
+    - content.code.select
+extra:
+  version: 0.0
+  alternate:
+    - name: English
+      link: https://english.docs.url.or-remove-it-if-no-english/
+      lang: en
+markdown_extensions:
+  - admonition
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+      pygments_style: "monokai"  # Use a different style here
+  - pymdownx.inlinehilite:
+  - pymdownx.snippets
+  - pymdownx.superfences
+extra:
+  generator: false
