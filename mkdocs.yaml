@@ -1,6 +1,7 @@
 site_name: عنوان الموقع
 docs_dir: docs
 site_dir: public
+site_url: https://siteurl.test/ #important if you want to generate sitemap.xml
 repo_url: http://repo-url-if-there-is-repp-url-or-remove-it
 site_description: 'وصف'
 site_author: 'Extendy Team'
@@ -17,8 +18,12 @@ theme:
     palette:
     primary: light blue # see https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/
     features:
-    - content.code.copy
-    - content.code.select
+      - content.code.copy
+      - content.code.select
+      - navigation.tracking
+      - search.share
+      - search.suggest
+      - navigation.instant
 extra:
   version: 0.0
   alternate:
