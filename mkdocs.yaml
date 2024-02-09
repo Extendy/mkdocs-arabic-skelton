@@ -8,6 +8,8 @@ site_author: 'Extendy Team'
 copyright: 'Copyrights © 2024 Extendy Team'
 nav:
   - الرئيسية: index.md
+  - مثال على قائمة اساسية:
+    - صفحة داخل قائمه: inner.md
   - رخصة الاستخدام: license.md
 theme:
     name: material
