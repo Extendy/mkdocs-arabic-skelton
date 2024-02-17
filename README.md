@@ -1,12 +1,14 @@
 # mkdocs-arabic-skelton
 
-This is a skelton for mkdocs Arabic project which is RTL language. you have to use `mkdocs` with `material` to generate the docs.
+This is a skelton for mkdocs Arabic project which is RTL language uses mkdocs-material theme. you have to use `mkdocs` with `material` to generate the docs.
 
-To generate the docs run the command `mkdocs build` , then the docs will be in `public` folder , copy `public` folder where you want.
+To generate the docs run the command `mkdocs build` , then the docs will be in `public` folder , copy `public` folder where you want. and the documentation website will look like:
 
 Happy Extendying!
 
-هذا مجرد مثال على موقع مستندات توثيق باللغة العربية يمكن توليده من خلال MkDocs. يمكن استخدام هيكلية الملفات لبدء مشروع توثيق جديد ، ولا تنسى استبدال محتوى هذة الصفحة بالمحتوى المناسب لك.
+هذا مجرد مثال على موقع مستندات توثيق باللغة العربية يمكن توليده من خلال MkDocs يستخدم قالب mkdocs-material. يمكن استخدام هيكلية الملفات لبدء مشروع توثيق جديد ، ولا تنسى استبدال المحتويات هذة الصفحة بالمحتوى المناسب لك.
+
+لإنشاء الوثائق، قم بتشغيل الأمر `mkdocs build`، ثم ستكون الوثائق في مجلد `public`. قم بنسخ مجلد `public` إلى الموقع الذي ترغب فيه. وموقع التوثيق سوف يكون شبيها بالموقع التالي:
 
 ![image](https://github.com/Extendy/mkdocs-arabic-skelton/assets/162535/6c9d38e5-6097-4cbc-b829-b07f7ec06816)
 
