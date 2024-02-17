@@ -46,7 +46,7 @@
 :fontawesome-brands-youtube:
 
 ```
-:fontawesome-brands-youtube::
+:fontawesome-brands-youtube:
 ```
 
 راجع [https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/](https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/) للمزيد من المعلومات والتخصيص في حال الدغبة بتخصيص الالوان او ما شابه.
