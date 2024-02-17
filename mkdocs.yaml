@@ -16,7 +16,7 @@ theme:
     language: ar
     direction: rtl
     font:
-      text: 'Rubik' # from google fonts
+      text: 'Rubik' # from google fonts https://fonts.google.com/ or remove it to use default font.
     palette:
     primary: light blue # see https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/
     features:
