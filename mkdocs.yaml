@@ -2,7 +2,7 @@ site_name: عنوان الموقع
 docs_dir: docs
 site_dir: public
 site_url: https://siteurl.test/ #important if you want to generate sitemap.xml
-repo_url: http://repo-url-if-there-is-repp-url-or-remove-it
+repo_url: https://github.com/Extendy/mkdocs-arabic-skelton #use your GitHub repo url if there is linked repo or remove it to disable it
 site_description: 'وصف'
 site_author: 'Extendy Team'
 copyright: 'Copyrights © 2024 Extendy Team'
