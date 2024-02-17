@@ -22,10 +22,11 @@
 
 
  :fontawesome-regular-hand-point-left: للمزيد من الايقونات راجع [https://fontawesome.com/search?o=v&m=free&s=regular&f=classic](https://fontawesome.com/search?o=v&m=free&s=regular&f=classic)
+ 
+## ايقونات من material
 
 او يمكن استخدام ايقونات material مثلا :material-airplane: حيث يمك كتباتها مثلا بكتابه
 
-## ايقونات من material
 
 ```
 :material-airplane: 
