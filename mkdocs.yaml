@@ -27,12 +27,15 @@ theme:
       - search.suggest
       - navigation.instant
       - navigation.instant.progress
+plugins:
+  - search
 extra:
   version: 0.0
   alternate:
     - name: English
-      link: https://english.docs.url.or-remove-it-if-no-english/
+      link: https://extendy.net/docs/en/
       lang: en
+  generator: false
 markdown_extensions:
   - admonition
   - pymdownx.highlight:
@@ -43,5 +46,3 @@ markdown_extensions:
   - pymdownx.inlinehilite:
   - pymdownx.snippets
   - pymdownx.superfences
-extra:
-  generator: false
