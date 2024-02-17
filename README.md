@@ -55,3 +55,11 @@ pip install mkdocs-material
 اذا كنت بحاجة لتعلم طريقة الكتابة بواسطة markdown راجع الرابط التالي
 [https://daringfireball.net/projects/markdown/syntax](https://daringfireball.net/projects/markdown/syntax)
 
+## تنويه
+
+في حال كان لديك مشروع برمجي جاهز وتود استخدام المستندات بداخله وبالتالي لا تود عمل git clone لهذا المستودع ، فبامكانك فقط نقل الملف `mkdocs.yaml` بداخل مشروعك في المجلد الذي تحب والبدء باستخدام mkdocs كيفما تحب حيث ان هذا الملف هو ما تحتاجة بالفعل للبدء (مع بعض التحرير لتحديد المجلد المصدر والهدف).
+
+
+Happy Extendying,
+
+Extendy Team.
